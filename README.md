@@ -14,4 +14,4 @@ To reproduce
 #### If on windows, just use pnpm, yarn, npm...
 
 
-### Preview url [here](https://sheets-preview.vercel.app/)
+### Preview url [here](https://fresh-boilerplate.vercel.app/)
